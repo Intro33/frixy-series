@@ -1,16 +1,15 @@
 {
-  "years": {
-    "2026": {
-      "Zima": [
-        {
-          "title": "Tytuł Anime 1",
-          "season_number": 1,
-          "absolute_episode_start": 0
-        }
-      ],
-      "Wiosna": [],
-      "Lato": [],
-      "Jesień": []
-    }
+  "2026": {
+    "Zima": [
+      {
+        "title": "Oshi no Ko",
+        "season_number": 3,
+        "absolute_episode_start": 0
+      }
+    ],
+    "Wiosna": [],
+    "Lato": [],
+    "Jesień": []
   }
 }
+
