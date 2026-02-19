@@ -1,4 +1,43 @@
 {
+  "2025": {
+    "Jesień": [
+      {
+        "title": "Boku no Hero Academia: Final Season",
+        "naming_title": "Boku no Hero Academia",
+        "season_number": 8
+      },
+      {
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "naming_title": "Chitose-kun wa Ramune Bin no Naka",
+        "season_number": 1
+      },
+      {
+        "title": "Mofa Gongzhu de Xiao Fannao",
+        "naming_title": "Mofa Gongzhu de Xiao Fannao",
+        "season_number": 1
+      },
+      {
+        "title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+        "naming_title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+        "season_number": 1
+      },
+      {
+        "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "naming_title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "season_number": 1
+      },
+      {
+        "title": "Watashi wo Tabetai, Hitodenashi",
+        "naming_title": "Watashi wo Tabetai, Hitodenashi",
+        "season_number": 1
+      },
+      {
+        "title": "Yasei no Last Boss ga Arawareta",
+        "naming_title": "Yasei no Last Boss ga Arawareta",
+        "season_number": 1
+      }
+    ]
+  }
   "2026": {
     "Zima": [
       {
@@ -7,11 +46,52 @@
         "season_number": 3,
         "absolute_episode_start": 25
       },
-      
       {
         "title": "Mato Seihei no Slave 2",
         "naming_title": "Mato Seihei no Slave",
         "season_number": 2
+      },
+      {
+        "title": "Sousou no Frieren 2nd Season",
+        "naming_title": "Sousou no Frieren",
+        "season_number": 2,
+        "absolute_episode_start": 29
+      },
+      {
+        "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+        "naming_title": "Android wa Keiken Ninzuu ni Hairimasu ka",
+        "season_number": 1
+      },
+      {
+        "title": "Ao no Miburo: Serizawa Ansatsu-hen",
+        "naming_title": "Ao no Miburo",
+        "season_number": 2
+      },
+      {
+        "title": "Goumon Baito-kun no Nichijou",
+        "naming_title": "Goumon Baito-kun no Nichijou ",
+        "season_number": 1
+      }
+      {
+        "title": "Jujutsu Kaisen Season 3",
+        "naming_title": "Jujutsu Kaisen",
+        "season_number": 3,
+        "absolute_episode_start": 48
+      },
+      {
+        "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "naming_title": "Yuusha Kei ni Shosu",
+        "season_number": 1
+      },
+      {
+        "title": "Seihantai na Kimi to Boku",
+        "naming_title": "Seihantai na Kimi to Boku",
+        "season_number": 1
+      },
+      {
+        "title": "Tamon-kun Ima Docchi!?",
+        "naming_title": "Tamon-kun Ima Docchi",
+        "season_number": 1
       }
     ],
     "Wiosna": [],
