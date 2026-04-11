@@ -96,11 +96,6 @@
     ],
     "Wiosna": [
       {
-        "title": "Dr. STONE: SCIENCE FUTURE Part 3",
-        "naming_title": "Dr. STONE",
-        "season_number": 4
-      },
-      {
         "title": "The Beginning After the End Season 2",
         "naming_title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru",
         "season_number": 2
@@ -118,7 +113,8 @@
       {
         "title": "Tensei Shitara Slime Datta Ken 4th Season",
         "naming_title": "Tensei Shitara Slime Datta Ken",
-        "season_number": 4
+        "season_number": 4,
+        "absolute_episode_start": 67
       },
       {
         "title": "Tsue to Tsurugi no Wistoria Season 2",
@@ -158,6 +154,16 @@
       {
         "title": "Rooster Fighter",
         "naming_title": "Niwatori Fighter",
+        "season_number": 1
+      },
+      {
+        "title": "Dr. STONE: SCIENCE FUTURE Part 3",
+        "naming_title": "Dr. STONE",
+        "season_number": 4
+      },
+      {
+        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "naming_title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
         "season_number": 1
       }
     ],
