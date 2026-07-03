@@ -186,10 +186,49 @@
         "season_number": 0
       },
       {
-        "title": "Lord of Mysteries Specials: Miasto Srebra",
-        "naming_title": "Lord of Mysteries Specials - Miasto Srebra",
-        "season_number": 0,
-        "absolute_episode_start": 18
+        "title": "Otome Kaiju Caramelise",
+        "naming_title": "Otome Kaiju Caramelise",
+        "season_number": 1
+      },
+      {
+        "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+        "naming_title": "Tenbin",
+        "season_number": 1
+      },
+      {
+        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+        "naming_title": "Futsutsuka na Akujo de wa Gozaimasu ga",
+        "season_number": 1
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+        "naming_title": "Mushoku Tensei",
+        "season_number": 3
+      },
+      {
+        "title": "BLACK TORCH",
+        "naming_title": "BLACK TORCH",
+        "season_number": 1
+      },
+      {
+        "title": "Youjo Senki II",
+        "naming_title": "Youjo Senki",
+        "season_number": 2
+      },
+      {
+        "title": "Link Click",
+        "naming_title": "Link Click",
+        "season_number": 1
+      },
+      {
+        "title": "Link Click 2",
+        "naming_title": "Link Click",
+        "season_number": 2
+      },
+      {
+        "title": "Link Click 3",
+        "naming_title": "Link Click",
+        "season_number": 3
       }
     ],
     "Jesień": []
