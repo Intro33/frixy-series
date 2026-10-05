@@ -1,1 +1,275 @@
-
+{
+  "2010": {
+    "Lato": [
+    {
+      "title": "High School Of The Dead",
+      "naming_title": "High School Of The Dead",
+      "season_number": 1
+    }
+    ]
+  },
+  "2020": {
+    "Jesień": [
+      {
+        "title": "Akudama Drive",
+        "naming_title": "Akudama Drive",
+        "season_number": 1
+      },
+      {
+        "title": "Ikebukuro West Gate Park",
+        "naming_title": "Ikebukuro West Gate Park",
+        "season_number": 1
+      }
+    ]
+  },
+  "2025": {
+    "Lato": [
+      {
+        "title": "Lord of Mysteries: Old Neil's Mysticism Class",
+        "naming_title": "Lord of Mysteries - Old Neil's Mysticism Class",
+        "season_number": 0
+      },
+      {
+        "title": "Lord of Mysteries: Chibi Theatre",
+        "naming_title": "Lord of Mysteries - Chibi Theatre",
+        "season_number": 1
+      }
+    ],
+    "Jesień": [
+      {
+        "title": "Boku no Hero Academia: Final Season",
+        "naming_title": "Boku no Hero Academia",
+        "season_number": 8
+      },
+      {
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "naming_title": "Chitose-kun wa Ramune Bin no Naka",
+        "season_number": 1
+      },
+      {
+        "title": "Mofa Gongzhu de Xiao Fannao",
+        "naming_title": "Mofa Gongzhu de Xiao Fannao",
+        "season_number": 1
+      },
+      {
+        "title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+        "naming_title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+        "season_number": 1
+      },
+      {
+        "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "naming_title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "season_number": 1
+      },
+      {
+        "title": "Watashi wo Tabetai, Hitodenashi",
+        "naming_title": "Watashi wo Tabetai, Hitodenashi",
+        "season_number": 1
+      },
+      {
+        "title": "Yasei no Last Boss ga Arawareta",
+        "naming_title": "Yasei no Last Boss ga Arawareta",
+        "season_number": 1
+      }
+    ]
+  },
+  "2026": {
+    "Zima": [
+      {
+        "title": "Oshi no Ko 3",
+        "naming_title": "Oshi no Ko",
+        "season_number": 3,
+        "absolute_episode_start": 25
+      },
+      {
+        "title": "Mato Seihei no Slave 2",
+        "naming_title": "Mato Seihei no Slave",
+        "season_number": 2
+      },
+      {
+        "title": "Sousou no Frieren 2nd Season",
+        "naming_title": "Sousou no Frieren",
+        "season_number": 2,
+        "absolute_episode_start": 29
+      },
+      {
+        "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+        "naming_title": "Android wa Keiken Ninzuu ni Hairimasu ka",
+        "season_number": 1
+      },
+      {
+        "title": "Ao no Miburo: Serizawa Ansatsu-hen",
+        "naming_title": "Ao no Miburo",
+        "season_number": 2
+      },
+      {
+        "title": "Goumon Baito-kun no Nichijou",
+        "naming_title": "Goumon Baito-kun no Nichijou ",
+        "season_number": 1
+      },
+      {
+        "title": "Jujutsu Kaisen Season 3",
+        "naming_title": "Jujutsu Kaisen",
+        "season_number": 3,
+        "absolute_episode_start": 48
+      },
+      {
+        "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "naming_title": "Yuusha Kei ni Shosu",
+        "season_number": 1
+      },
+      {
+        "title": "Seihantai na Kimi to Boku",
+        "naming_title": "Seihantai na Kimi to Boku",
+        "season_number": 1
+      },
+      {
+        "title": "Tamon-kun Ima Docchi!?",
+        "naming_title": "Tamon-kun Ima Docchi",
+        "season_number": 1
+      }
+    ],
+    "Wiosna": [
+      {
+        "title": "The Beginning After the End Season 2",
+        "naming_title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru",
+        "season_number": 2
+      },
+      {
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+        "naming_title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+        "season_number": 2
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+        "naming_title": "ReZero kara Hajimeru Isekai Seikatsu",
+        "season_number": 4
+      },
+      {
+        "title": "Tensei Shitara Slime Datta Ken 4th Season",
+        "naming_title": "Tensei Shitara Slime Datta Ken",
+        "season_number": 4,
+        "absolute_episode_start": 73
+      },
+      {
+        "title": "Tsue to Tsurugi no Wistoria Season 2",
+        "naming_title": "Tsue to Tsurugi no Wistoria",
+        "season_number": 2
+      },
+      {
+        "title": "MARRIAGETOXIN",
+        "naming_title": "MARRIAGETOXIN",
+        "season_number": 1
+      },
+      {
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+        "naming_title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+        "season_number": 1
+      },
+      {
+        "title": "Aishiteru Game wo Owarasetai",
+        "naming_title": "Aishiteru Game wo Owarasetai",
+        "season_number": 1
+      },
+      {
+        "title": "Kanan-sama wa Akumade Choroi",
+        "naming_title": "Kanan-sama wa Akumade Choroi",
+        "season_number": 1
+      },
+      {
+        "title": "NEEDY GIRL OVERDOSE",
+        "naming_title": "NEEDY GIRL OVERDOSE",
+        "season_number": 1
+      },
+      {
+        "title": "Shunkashuutou Daikousha: Haru no Mai",
+        "naming_title": "Shunkashuutou Daikousha",
+        "season_number": 1
+      },
+      {
+        "title": "Rooster Fighter",
+        "naming_title": "Niwatori Fighter",
+        "season_number": 1
+      },
+      {
+        "title": "Dr. STONE: SCIENCE FUTURE Part 3",
+        "naming_title": "Dr. STONE",
+        "season_number": 4
+      },
+      {
+        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "naming_title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "season_number": 1
+      }
+    ],
+    "Lato": [
+      {
+        "title": "Paląc z tobą na tyłach sklepu (Pre-Cut)",
+        "naming_title": "Super no Ura de Yani Suu Futari (Pre-Cut)",
+        "season_number": 0
+      },
+      {
+        "title": "Paląc z tobą na tyłach sklepu",
+        "naming_title": "Super no Ura de Yani Suu Futari",
+        "season_number": 1
+      },
+      {
+        "title": "Otome Kaiju Caramelise",
+        "naming_title": "Otome Kaiju Caramelise",
+        "season_number": 1
+      },
+      {
+        "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+        "naming_title": "Tenbin",
+        "season_number": 1
+      },
+      {
+        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+        "naming_title": "Futsutsuka na Akujo de wa Gozaimasu ga",
+        "season_number": 1
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+        "naming_title": "Mushoku Tensei",
+        "season_number": 3
+      },
+      {
+        "title": "BLACK TORCH",
+        "naming_title": "BLACK TORCH",
+        "season_number": 1
+      },
+      {
+        "title": "Youjo Senki II",
+        "naming_title": "Youjo Senki",
+        "season_number": 2
+      },
+      {
+        "title": "Link Click",
+        "naming_title": "Link Click",
+        "season_number": 1
+      },
+      {
+        "title": "Link Click 2",
+        "naming_title": "Link Click",
+        "season_number": 2
+      },
+      {
+        "title": "Link Click 3",
+        "naming_title": "Link Click",
+        "season_number": 3
+      },
+      {
+        "title": "Lord of Mysteries Specials",
+        "naming_title": "Lord of Mysteries",
+        "season_number": 0,
+        "absolute_episode_start": 18
+      },
+      {
+        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+        "naming_title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+        "season_number": 1
+      }
+    ],
+    "Jesień": []
+  }
+}
