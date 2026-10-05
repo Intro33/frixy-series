@@ -270,59 +270,6 @@
         "season_number": 1
       }
     ],
-    "Jesień": [
-      {
-        "title": "Yasei no Last Boss ga Arawareta S2",
-        "naming_title": "Yasei no Last Boss ga Arawareta",
-        "season_number": 2,
-        "absolute_episode_start": 0
-    },
-    {
-        "title": "Romelia War Chronicle",
-        "naming_title": "Romelia War Chronicle",
-        "season_number": 1,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Kusuriya no Hitorigoto S3",
-        "naming_title": "Kusuriya no Hitorigoto",
-        "season_number": 3,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Zapiski zielarki S3",
-        "naming_title": "Kusuriya no Hitorigoto",
-        "season_number": 3,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Psyren",
-        "naming_title": "Psyren",
-        "season_number": 1,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Tokyo Revengers: Santen Sensou-hen",
-        "naming_title": "Tokyo Revengers",
-        "season_number": 4,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Black Clover S2",
-        "naming_title": "Black Clover",
-        "season_number": 2,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Hotaru no Yomeiri",
-        "naming_title": "Hotaru no Yomeiri",
-        "season_number": 1,
-        "absolute_episode_start": 0
-    },
-      {
-        "title": "Hotaru no Yomeiri",
-        "naming_title": "Hotaru no Yomeiri",
-        "season_number": 1,
-        "absolute_episode_start": 0
-    },
+    "Jesień": []
+      }
     ]
